@@ -1,0 +1,17 @@
+{
+  "id": "webhook-event-id",
+  "version": "1",
+  "timestamp": 1710000000,
+  "payload": {
+    "type": "message",
+    "value": {
+      "id": "msg-id",
+      "chat_id": "REPLACE_WITH_REAL_CHAT_ID",
+      "user_id": "123",
+      "author_id": "123",
+      "content": {
+        "text": "Здравствуйте, нужно бухобслуживание для ИП"
+      }
+    }
+  }
+}

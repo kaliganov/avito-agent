@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+# Секреты и локальные переопределения — не коммитить
+.env
+.env.*
+!.env.example
+data/*.db
+*.sqlite3
+knowledge/
